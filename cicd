@@ -1,4 +1,5 @@
 #!/bin/bash
 
-mkdir t1
-touch t2 t3
+mkdir t7
+touch t8 t9
+mkdir t10 t11
