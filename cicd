@@ -1,0 +1,4 @@
+#!/bin/bash
+
+mkdir t1
+touch t2 t3
